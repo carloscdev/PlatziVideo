@@ -1,0 +1,7 @@
+// Babel para usar Javascript moderno y que sea entendible en todo los navegadores
+{
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
